@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://visiky.github.io/resume?user={circlerain}&branch={master}
+https://circlerain.github.io/resume?user={circlerain}&branch={master}
 <!--
 **circlerain/circlerain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
